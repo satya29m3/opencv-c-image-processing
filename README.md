@@ -1,2 +1,2 @@
 # opencv-c-image-processing
-image processing c++ task by satya for team Ares Recruitment
+this file includes the basic image processing techniques in C++ language
